@@ -1,113 +1,42 @@
-<div align="center">
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm Parsa Besharati</h1>
+<h3 align="center">Software QA Test Engineer</h3>
 
-# Hi 👋, I'm Parsa Besharati
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=parsa83besharati">
+    <img src="https://komarev.com/ghpvc/?username=parsa83besharati&label=Profile%20views&color=00FFFF&style=flat-square" alt="parsa83besharati's profile views" />
+  </a>
+</p>
 
-### Software QA Test Engineer [Tehran]
+## 🧠 My Focus Areas
+- Quality Assurance
+- Quality Control
+- Test Automation
+- Test Design
 
-</div>
 
-## 🚀 About Me
+## 🛠️ Languages & Tools
 
-🌟 About Me 🌟
-👨‍💻 Software QA Test Engineer | 🔍 Passionate about precision, problem-solving, and product quality
+### Programming Languages
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="48" height="48" style="margin: 4px;" /></p>
 
-Hey there! I’m Parsa Besharati, a detail-driven QA enthusiast with a knack for spotting what others miss. My journey in the world of tech is fueled by curiosity and a hunger to grow—both as a tester and a teammate.
+### Backend
+<p align="center"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="48" height="48" style="margin: 4px;" /></p>
 
-🚀 Highlights of My Journey:
-✨ Participated in Golrang Future Stars – proud member of the "Active Cleaners" team
-🛠️ Skilled in manual & automated testing, with a deep focus on delivering bug-free user experiences
-💡 Always exploring new tools, frameworks, and best practices to level up
+### Database
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="48" height="48" style="margin: 4px;" /></p>
 
-🎯 What Drives Me:
-✔️ Delivering reliable, high-performing software
-✔️ Collaborating in fast-paced, agile teams
-✔️ Learning something new—every single day
+### DevOps & Cloud
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /></p>
 
-## 💼 Work Experience
+### Tools
+<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /></p>
 
-| Company | Position | Duration |
-|---|---|---|
-| Active Cleaners | Software QA Test Engineer | 2025-03 - Present |
+## 🔗 Connect with Me
+<p align="center"><a href="https://www.linkedin.com/in/parsa-besharati-925b57308/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:parsa83besharati@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
-### Software QA Test Engineer at Active Cleaners
-*Tehran, Iran*
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
 
-## 🎓 Education
-
-| Institution | Degree | Duration |
-|---|---|---|
-| Imam Khomeini International University | Bachelor's | 2023-10 - 2027-07 |
-
-### Bachelor's in Computer Engineering
-*Imam Khomeini International University*
-
-👨‍🏫 Teaching Assistant – Fundamentals of Computer Programming
-Supervised by Professor Nastooh Taheri Javan
-
-📚 Secretary – Computer Engineering Scientific Association
-
-## 📞 Contact & Links
-
-<div align="left">
-
-- 📫 How to reach me **parsa83besharati@gmail.com**
-
-</div>
-
-## ⚡ Fun Fact
-
-<div align="center">
-
-*Linus Torvalds created the first version of Git in just about 2 weeks back in 2005*
-
-</div>
-
-## 🌐 Connect with Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parsa83besharati)&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parsa-besharati-925b57308/)&nbsp;&nbsp;&nbsp;[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/parsa83besharati)
-
-</div>
-
-## 🛠️ Skills & Technologies
-
-### 💻 Programming Languages
-
-<img src="https://cdn.simpleicons.org/c/A8B9CC?size=32" alt="C"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/java/007396?size=32" alt="Java"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/csharp/239120?size=32" alt="C#"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/python/3776AB?size=32" alt="Python"  />
-
-### 💻 Backend Development
-
-<img src="https://cdn.simpleicons.org/spring/6DB33F?size=32" alt="Spring"  />
-
-### 💻 Database
-
-<img src="https://cdn.simpleicons.org/mongodb/47A248?size=32" alt="MongoDB"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/mysql/4479A1?size=32" alt="MySQL"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/postgresql/4169E1?size=32" alt="PostgreSQL"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/redis/DC382D?size=32" alt="Redis"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/oracle/F80000?size=32" alt="Oracle"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/mariadb/003545?size=32" alt="MariaDB"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/sqlite/003B57?size=32" alt="SQLite"  />
-
-### 💻 DevOps
-
-<img src="https://cdn.simpleicons.org/docker/2496ED?size=32" alt="Docker"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/gnu-bash/4EAA25?size=32" alt="Bash"  />
-
-### 💻 Software
-
-<img src="https://cdn.simpleicons.org/postman/FF6C37?size=32" alt="Postman"  />
-
-### 💻 Game Engines
-
-<img src="https://cdn.simpleicons.org/unity/FFFFFF?size=32" alt="Unity"  />
-
-### 💻 Other
-
-<img src="https://cdn.simpleicons.org/linux/FCC624?size=32" alt="Linux"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/git/F05032?size=32" alt="Git"  />
-
----
-
-<div align="center">
-
-### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
-
-**Thank you for visiting my profile! 😊**
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=flat-square&label=Profile+Views)
-
-</div>
