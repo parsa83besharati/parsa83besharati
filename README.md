@@ -94,22 +94,6 @@ philosophy: "Quality is not an act, it's a habit."
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=parsa83besharati&show_icons=true&hide_border=true&bg_color=0D1117&title_color=c084fc&icon_color=f472b6&text_color=e6edf3" alt="stats"/>
-&nbsp;&nbsp;
-<img height="160" src="https://streak-stats.demolab.com?user=parsa83besharati&hide_border=true&background=0D1117&ring=c084fc&fire=f472b6&currStreakLabel=f472b6&sideLabels=e6edf3&dates=8B949E" alt="streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=parsa83besharati&bg_color=0D1117&color=e6edf3&line=c084fc&point=f472b6&area=true&area_color=2b1f3d&hide_border=true" width="100%" alt="activity graph"/>
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 <div align="center">
